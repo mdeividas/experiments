@@ -1,0 +1,6 @@
+{
+  "dependencies": { "@sveltejs/adapter-cloudflare": "^7.2.6" },
+  "devDependencies": {
+    "@sveltejs/adapter-cloudflare-workers": "^2.9.0"
+  }
+}
